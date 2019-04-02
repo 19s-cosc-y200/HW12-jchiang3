@@ -1,0 +1,23 @@
+Project Name: Hands-On Exercises 3.5-3.6
+Author: Jennifer Chiang
+Date Last Modified: 4/2/2019
+
+1. <head>
+	<style>
+	 body { background-color: white;
+		color: black;
+		font-family: Arial, Helvetica, serif;
+	 }
+	 .new { font-size: bold;
+		font-style: italic;
+	 }
+	 a { text-decoration: none; }
+	</style>
+   </head>
+2. body { background-color: #FFF8DC;
+	  color: #000099
+	  font-family: Arial, Helvetica, serif;
+   }
+   #new { font-size: bold;
+	  font-style: italic;
+   }
