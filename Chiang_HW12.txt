@@ -1,8 +1,9 @@
 Project Name: Hands-On Exercises 3.5-3.6
 Author: Jennifer Chiang
-Date Last Modified: 4/2/2019
+Date Last Modified: 4/6/2019
 
-1. <head>
+1. IN HTML FILE:
+   <head>
 	<style>
 	 body { background-color: white;
 		color: black;
@@ -14,10 +15,17 @@ Date Last Modified: 4/2/2019
 	 a { text-decoration: none; }
 	</style>
    </head>
-2. body { background-color: #FFF8DC;
+  IN CSS:
+     (see above. since it is embedded the code goes between <style> in the <head> section.
+	to make css, simply take code within <style> and move to a new .css file)
+
+2. IN CSS:
+   body { background-color: #FFF8DC;
 	  color: #000099
 	  font-family: Arial, Helvetica, serif;
    }
    #new { font-size: bold;
 	  font-style: italic;
    }
+   IN HTML:
+     just use <body> and new may go in a <div> or another tag like <div id="new"></div>
