@@ -9,9 +9,16 @@ Date Last Modified: 4/6/2019
 		color: black;
 		font-family: Arial, Helvetica, serif;
 	 }
+	 
+colors should be in HEX
+should be a, not body
+
 	 .new { font-size: bold;
 		font-style: italic;
 	 }
+	 
+missing font-weight
+
 	 a { text-decoration: none; }
 	</style>
    </head>
